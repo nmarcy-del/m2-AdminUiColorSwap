@@ -1,7 +1,7 @@
 # m2-AdminUiColorSwap
 
-Magento custom admin theme color module.
-Used to swap color (compatible magento 2.4.5-p1 and below)
+Magento 2 custom admin theme color module.
+Used to swap color (tested compatible magento 2.4.5-p1 and below)
 
 You can use pre-selected admin theme (4 color) or choose each color with a color picker.
 
